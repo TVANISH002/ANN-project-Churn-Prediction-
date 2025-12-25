@@ -1,5 +1,4 @@
-# ANN-_PROJECT
-# Bank Customer Churn Prediction
+#customer-churn-analysis
 
 ## Overview
 This project implements an **end-to-end machine learning solution** to predict whether a bank customer is likely to **leave the bank (churn)**.  
